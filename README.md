@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eray Siltu</h1>
 <h3 align="center">I am an upcoming app developer</h3>
 
-- 🔭 I’m currently working on [flashlist-expo-v1](https://github.com/esiltu/flashlist-expo-v1)
+- 🔭 I’m currently working on [eventhub-kit](https://github.com/esiltu/eventhub-kit)
 
 - 🌱 I’m currently learning **FastifyJS, Expo Router, Figma**
 
