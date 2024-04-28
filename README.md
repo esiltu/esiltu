@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Eray Siltu</h1>
-<h3 align="center">I am an upcoming app developer</h3>
+<h1>Hi 👋, I'm Eray Siltu</h1>
+<h3>I am an upcoming app developer</h3>
 
 - 🔭 I’m currently working on [eventhub-kit](https://github.com/esiltu/eventhub-kit)
 
 - 🌱 I’m currently learning **FastifyJS, Expo Router, Figma**
-
-- ⚡️ I’m looking to collaborate on [backend-fastify](https://github.com/esiltu/backend-fastify)
-
-- 💬 Ask me about **react native, figma, prototypes**
 
 - 📫 How to reach me **siltudevelop@gmail.com**
 
