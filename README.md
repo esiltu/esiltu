@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Eray Siltu</h1>
 <h3>I am an upcoming app developer</h3>
 
-- 🔭 I’m currently working on [eventhub-kit](https://github.com/esiltu/eventhub-kit)
-
 - 🌱 I’m currently learning **FastifyJS, Expo Router, Figma**
 
 - 📫 How to reach me **siltudevelop@gmail.com**
