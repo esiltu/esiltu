@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Eray Siltu</h1>
 <h3>I am an upcoming app developer</h3>
 
-- 🌱 I’m currently learning **FastifyJS, React Native Expo, MongoDB, Figma**
+- 🌱 I’m currently learning: **FastifyJS, React Native Expo, MongoDB, Figma**
 
 - 📫 How to reach me **siltudevelop@gmail.com**
 
