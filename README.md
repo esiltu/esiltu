@@ -2,7 +2,7 @@
 <h3>I am an upcoming app developer</h3>
 
 - 🌱 I’m currently learning:
-  * Next JS, React Native Expo, Fastify JS, MongoDB, Figma, Tailwind CSS 
+  * Next JS, React Native Expo, Typescript, Fastify JS, MongoDB, Figma, Tailwind CSS
 
 - 📫 How to reach me **siltudevelop@gmail.com**
 
