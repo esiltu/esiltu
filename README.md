@@ -1,5 +1,3 @@
-# Hi, I'm Eray Siltu 👋
-
 ## About Me
 
 - 🌱 Currently enhancing my skills in:
