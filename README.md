@@ -1,7 +1,7 @@
 ## About Me
 
 - 🌱 Currently enhancing my skills in:
-  * Next.JS
+  * Next.js
   * React Native Expo
   * TypeScript
   * Fastify.js
