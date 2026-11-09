@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="t d">
+  <title id="t">Automation × Software</title>
+  <desc id="d">Building automation engineering with Schneider Electric EcoStruxure, PLC and HVAC, turned into software with Claude.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06121A"/><stop offset=".6" stop-color="#0A2230"/><stop offset="1" stop-color="#0C3324"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".82" cy=".9" r=".6">
+      <stop offset="0" stop-color="#3DCD58" stop-opacity=".22"/><stop offset="1" stop-color="#3DCD58" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="r"><rect width="1000" height="300" rx="18"/></clipPath>
+    <style>
+  .sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif}
+  .mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace}
+  /* Inhoud (tekst, kaarten, iconen) beweegt nooit: die is altijd zichtbaar, ook als een
+     renderer animaties bevriest. Alleen decoratie beweegt: glans, stroming, lichtpuntjes. */
+  .sweep{animation:sweep 7s cubic-bezier(.4,0,.2,1) infinite}
+  @keyframes sweep{0%{transform:translateX(0)}55%,100%{transform:translateX(560px)}}
+  .glow{animation:glow 3.6s ease-in-out infinite}
+  @keyframes glow{0%,100%{opacity:.12}50%{opacity:.3}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+
+    </style>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1000" height="300" fill="url(#bg)"/>
+    <rect width="1000" height="300" fill="url(#grid)"/>
+    <rect width="1000" height="300" fill="url(#glow)"/>
+    
+    <path d="M 560 70 H 760 V 150 H 980" stroke="#3DCD58" stroke-opacity=".18" stroke-width="1.2" fill="none"/>
+    <circle r="3.2" fill="#3DCD58">
+      <animateMotion dur="7s" begin="0s" repeatCount="indefinite" path="M 560 70 H 760 V 150 H 980"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="7s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M 600 230 H 700 V 110 H 900" stroke="#3DCD58" stroke-opacity=".18" stroke-width="1.2" fill="none"/>
+    <circle r="3.2" fill="#3DCD58">
+      <animateMotion dur="8.6s" begin="1.3s" repeatCount="indefinite" path="M 600 230 H 700 V 110 H 900"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="8.6s" begin="1.3s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M 640 40 V 260" stroke="#3DCD58" stroke-opacity=".18" stroke-width="1.2" fill="none"/>
+    <circle r="3.2" fill="#3DCD58">
+      <animateMotion dur="10.2s" begin="2.6s" repeatCount="indefinite" path="M 640 40 V 260"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="10.2s" begin="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M 820 260 V 190 H 960" stroke="#3DCD58" stroke-opacity=".18" stroke-width="1.2" fill="none"/>
+    <circle r="3.2" fill="#3DCD58">
+      <animateMotion dur="11.8s" begin="3.9000000000000004s" repeatCount="indefinite" path="M 820 260 V 190 H 960"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="11.8s" begin="3.9000000000000004s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="756" y="66" width="8" height="8" rx="2" fill="#0B1C26" stroke="#3DCD58" stroke-opacity=".7"><animate attributeName="stroke-opacity" values=".25;.9;.25" dur="4s" begin="0s" repeatCount="indefinite"/></rect><rect x="756" y="146" width="8" height="8" rx="2" fill="#0B1C26" stroke="#3DCD58" stroke-opacity=".7"><animate attributeName="stroke-opacity" values=".25;.9;.25" dur="4s" begin="0.5s" repeatCount="indefinite"/></rect><rect x="696" y="226" width="8" height="8" rx="2" fill="#0B1C26" stroke="#3DCD58" stroke-opacity=".7"><animate attributeName="stroke-opacity" values=".25;.9;.25" dur="4s" begin="1s" repeatCount="indefinite"/></rect><rect x="696" y="106" width="8" height="8" rx="2" fill="#0B1C26" stroke="#3DCD58" stroke-opacity=".7"><animate attributeName="stroke-opacity" values=".25;.9;.25" dur="4s" begin="1.5s" repeatCount="indefinite"/></rect><rect x="636" y="146" width="8" height="8" rx="2" fill="#0B1C26" stroke="#3DCD58" stroke-opacity=".7"><animate attributeName="stroke-opacity" values=".25;.9;.25" dur="4s" begin="2s" repeatCount="indefinite"/></rect><rect x="816" y="186" width="8" height="8" rx="2" fill="#0B1C26" stroke="#3DCD58" stroke-opacity=".7"><animate attributeName="stroke-opacity" values=".25;.9;.25" dur="4s" begin="2.5s" repeatCount="indefinite"/></rect><rect x="896" y="106" width="8" height="8" rx="2" fill="#0B1C26" stroke="#3DCD58" stroke-opacity=".7"><animate attributeName="stroke-opacity" values=".25;.9;.25" dur="4s" begin="3s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x=".5" y=".5" width="999" height="299" rx="17.5" fill="none" stroke="#1E3646"/>
+  <g><text x="56" y="92" class="mono" font-size="13" letter-spacing="2.6" fill="#3DCD58">BUILDING AUTOMATION · AI-ASSISTED ENGINEERING</text></g>
+  <g><text x="54" y="160" class="sans" font-size="54" font-weight="700" letter-spacing="-1.4" fill="#E8EEF2">Automation × Software</text></g>
+  <g><text x="56" y="200" class="sans" font-size="19" fill="#93A5B2">Schneider Electric EcoStruxure · PLC · HVAC — engineered with Claude</text></g>
+  <g>
+    <rect x="56" y="226" width="148" height="30" rx="15" fill="#3DCD58" fill-opacity=".12" stroke="#3DCD58" stroke-opacity=".45"/>
+    <circle cx="74" cy="241" r="4" fill="#3DCD58"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="86" y="246" class="mono" font-size="13" fill="#E8EEF2">field → code</text>
+    <rect x="214" y="226" width="160" height="30" rx="15" fill="#D97757" fill-opacity=".12" stroke="#D97757" stroke-opacity=".5"/>
+    <text x="232" y="246" class="mono" font-size="13" fill="#E8EEF2">AI co-pilot: Claude</text>
+  </g>
+</svg>
