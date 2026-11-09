@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Automation × Software – Schneider Electric EcoStruxure, PLC and HVAC, built with Claude" width="100%" />
+  <img src="assets/banner.svg" alt="Automation × Software – Schneider Electric EcoStruxure, PLC and HVAC, built with Claude" width="100%" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   I build reliable, tested software with <b>Claude and Claude Code</b>, grounded in field expertise.
 </p>
 
-<img src="assets/workflow.svg" alt="Field expertise → Claude → software in React, React Native and TypeScript → verified with automated tests and CI" width="100%" />
+<img src="assets/how-i-build.svg" alt="Field expertise → Claude → software in React, React Native and TypeScript → verified with automated tests and CI" width="100%" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,nodejs,postgres,firebase,py,go,git,github,githubactions,vscode,figma,windows,apple&perline=18" alt="React, Next.js, TypeScript, JavaScript, Tailwind, Vite, Node.js, PostgreSQL, Firebase, Python, Go, Git, GitHub, GitHub Actions, VS Code, Figma, Windows, macOS" width="100%" />
