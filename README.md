@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Automation × Software – Schneider Electric EcoStruxure, PLC and HVAC, engineered with Claude" width="100%" />
+  <img src="assets/header.svg" alt="Automation × Software – Schneider Electric EcoStruxure, PLC and HVAC, built with Claude" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1100&color=3DCD58&center=true&vCenter=true&width=720&height=36&lines=Building+automation+engineer;AI-assisted+engineering+with+Claude;Schneider+Electric+EcoStruxure+%C2%B7+PLC+%C2%B7+HVAC;React+%C2%B7+React+Native+%C2%B7+TypeScript" alt="Building automation engineer · AI-assisted engineering with Claude" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1100&color=D97706&center=true&vCenter=true&width=720&height=36&lines=Building+automation+engineer;Software+built+with+Claude;Schneider+Electric+EcoStruxure+%C2%B7+PLC+%C2%B7+HVAC;React+%C2%B7+React+Native+%C2%B7+TypeScript" alt="Building automation engineer · software built with Claude" />
 </p>
 
 <p align="center">
   Building automation engineer in <b>Schneider Electric EcoStruxure</b>: PLC, HVAC, BACnet and Modbus.<br />
-  I use <b>Claude and Claude Code</b> as engineering co-pilot to turn field expertise into tested software.
+  I build reliable, tested software with <b>Claude and Claude Code</b>, grounded in field expertise.
 </p>
 
 <img src="assets/workflow.svg" alt="Field expertise → Claude → software in React, React Native and TypeScript → verified with automated tests and CI" width="100%" />
@@ -18,11 +18,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EcoStruxure_Building_Operation-3DCD58?style=flat-square&logo=schneiderelectric&logoColor=white" alt="EcoStruxure Building Operation" />
-  <img src="https://img.shields.io/badge/PLC-0B1C26?style=flat-square" alt="PLC" />
-  <img src="https://img.shields.io/badge/HVAC-0B1C26?style=flat-square" alt="HVAC" />
-  <img src="https://img.shields.io/badge/BACnet-0B1C26?style=flat-square" alt="BACnet" />
-  <img src="https://img.shields.io/badge/Modbus-0B1C26?style=flat-square" alt="Modbus" />
+  <img src="https://img.shields.io/badge/EcoStruxure_Building_Operation-292524?style=flat-square&logo=schneiderelectric&logoColor=3DCD58" alt="EcoStruxure Building Operation" />
+  <img src="https://img.shields.io/badge/PLC-292524?style=flat-square" alt="PLC" />
+  <img src="https://img.shields.io/badge/HVAC-292524?style=flat-square" alt="HVAC" />
+  <img src="https://img.shields.io/badge/BACnet-292524?style=flat-square" alt="BACnet" />
+  <img src="https://img.shields.io/badge/Modbus-292524?style=flat-square" alt="Modbus" />
   <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black" alt="TimescaleDB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
