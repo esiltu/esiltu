@@ -1,32 +1,52 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Automation × Software – Schneider Electric EcoStruxure, PLC and HVAC, built with Claude" width="100%" />
+  <img src="assets/banner.svg" alt="Automation × Software: building automation engineer and software developer" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1100&color=D97706&center=true&vCenter=true&width=720&height=36&lines=Building+automation+engineer;Software+built+with+Claude;Schneider+Electric+EcoStruxure+%C2%B7+PLC+%C2%B7+HVAC;React+%C2%B7+React+Native+%C2%B7+TypeScript" alt="Building automation engineer · software built with Claude" />
-</p>
+Building automation engineer specialised in **Schneider Electric EcoStruxure** (PLC, HVAC, BACnet and Modbus), and software developer working in **React, React Native and TypeScript**. I build reliable, tested software, grounded in field experience.
 
-<p align="center">
-  Building automation engineer in <b>Schneider Electric EcoStruxure</b>: PLC, HVAC, BACnet and Modbus.<br />
-  I build reliable, tested software with <b>Claude and Claude Code</b>, grounded in field expertise.
-</p>
+## Expertise
 
-<img src="assets/how-i-build.svg" alt="Field expertise → Claude → software in React, React Native and TypeScript → verified with automated tests and CI" width="100%" />
+| Building automation | Software development |
+| :--- | :--- |
+| Schneider Electric EcoStruxure Building Operation | React, Next.js, React Native and Expo |
+| PLC programming | TypeScript, JavaScript and Node.js |
+| HVAC | Python and Go |
+| BACnet and Modbus | PostgreSQL, TimescaleDB and Firebase |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,nodejs,postgres,firebase,py,go,git,github,githubactions,vscode,figma,windows,apple&perline=18" alt="React, Next.js, TypeScript, JavaScript, Tailwind, Vite, Node.js, PostgreSQL, Firebase, Python, Go, Git, GitHub, GitHub Actions, VS Code, Figma, Windows, macOS" width="100%" />
-</p>
+**Tools:** Git, GitHub Actions, Vite, Tailwind CSS, Clerk, Figma, VS Code and Claude Code, on Windows and macOS.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/EcoStruxure_Building_Operation-292524?style=flat-square&logo=schneiderelectric&logoColor=3DCD58" alt="EcoStruxure Building Operation" />
-  <img src="https://img.shields.io/badge/PLC-292524?style=flat-square" alt="PLC" />
-  <img src="https://img.shields.io/badge/HVAC-292524?style=flat-square" alt="HVAC" />
-  <img src="https://img.shields.io/badge/BACnet-292524?style=flat-square" alt="BACnet" />
-  <img src="https://img.shields.io/badge/Modbus-292524?style=flat-square" alt="Modbus" />
-  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black" alt="TimescaleDB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-</p>
+## How I work
+
+1. **Field first.** Every project starts from how the installation works: PLC logic, HVAC, BACnet and Modbus.
+2. **AI-assisted.** Claude and Claude Code are part of my engineering toolkit, to move faster without cutting corners.
+3. **Modern stack.** Applications in React, React Native and TypeScript.
+4. **Verified.** Automated tests and CI on Windows and Linux.
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/esiltu/buoy-dock"><b>Buoy</b></a><br />
+      Free, open-source floating dock for macOS, with Liquid Glass and magnification. It moves out of the way of your windows.<br /><br />
+      <code>Swift</code> <code>SwiftUI</code> · <a href="https://esiltu.github.io/buoy-dock/">Website</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/esiltu/expo-firebase-auth"><b>expo-firebase-auth</b></a><br />
+      Expo starter kit with Firebase authentication, Expo Router, tab and drawer navigation, and email verification.<br /><br />
+      <code>TypeScript</code> <code>Expo</code> <code>Firebase</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/esiltu/ship-expo-faster"><b>ship-expo-faster</b></a><br />
+      Open-source Expo template with Expo Router, Clerk authentication and support for eight languages.<br /><br />
+      <code>TypeScript</code> <code>Expo</code> <code>Clerk</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/esiltu/books-template"><b>books-template</b></a><br />
+      React Native and Expo front-end template with authentication and onboarding.<br /><br />
+      <code>JavaScript</code> <code>Expo</code>
+    </td>
+  </tr>
+</table>
