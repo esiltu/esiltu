@@ -1,33 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="t d">
-  <title id="t">Automation × Software</title>
-  <desc id="d">Building automation with Schneider Electric EcoStruxure, PLC and HVAC, and software built with Claude.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#1C1917"/><stop offset="1" stop-color="#2A211B"/>
-    </linearGradient>
-    <radialGradient id="warm" cx="1" cy="1" r=".75">
-      <stop offset="0" stop-color="#D97706" stop-opacity=".16"/><stop offset="1" stop-color="#D97706" stop-opacity="0"/>
-    </radialGradient>
-    <clipPath id="r"><rect width="1000" height="220" rx="14"/></clipPath>
-    <style>
-  .sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif}
-  .mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace}
-  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
-
-      /* Accentlijn tekent zich één keer uit; zonder animatie staat hij er gewoon. */
-      .rule{transform-box:fill-box;transform-origin:left;animation:rule 1.4s cubic-bezier(.22,1,.36,1) backwards .2s}
-      @keyframes rule{from{transform:scaleX(0)}}
-    </style>
-  </defs>
-  <g clip-path="url(#r)">
-    <rect width="1000" height="220" fill="url(#bg)"/>
-    <rect width="1000" height="220" fill="url(#warm)"/>
-    <rect width="6" height="220" fill="#D97706"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Automation × Software</title>
+  <desc id="desc">Building automation engineer and software developer: Schneider Electric EcoStruxure, PLC, HVAC, React and TypeScript.</desc>
+  <rect width="1200" height="240" rx="16" fill="#171310"/>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="15.5" fill="none" stroke="#2e2621"/>
+  <rect x="64" y="60" width="4" height="120" rx="2" fill="#ea580c"/>
+  <text x="96" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3" fill="#c8a27a">BUILDING AUTOMATION · SOFTWARE ENGINEERING</text>
+  <text x="94" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#f5efe6">Automation × Software</text>
+  <text x="96" y="178" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#a59c92">Schneider Electric EcoStruxure  ·  React  ·  TypeScript</text>
+  <line x1="880" y1="60" x2="880" y2="180" stroke="#2e2621"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5">
+    <text x="912" y="84" fill="#857b71">FIELD</text>
+    <text x="912" y="106" fill="#e7ded3">PLC · HVAC</text>
+    <text x="912" y="128" fill="#e7ded3">BACnet · Modbus</text>
+    <text x="912" y="160" fill="#857b71">SOFTWARE</text>
+    <text x="912" y="182" fill="#e7ded3">Tested · CI</text>
   </g>
-  <rect x=".5" y=".5" width="999" height="219" rx="13.5" fill="none" stroke="#3F3A36"/>
-  <text x="64" y="52" class="mono" font-size="12.5" letter-spacing="2.4" fill="#C9A27E">BUILDING AUTOMATION · SOFTWARE ENGINEERING</text>
-  <text x="62" y="104" class="sans" font-size="48" font-weight="700" letter-spacing="-1.2" fill="#FAF7F2">Automation × Software</text>
-  <rect class="rule" x="64" y="120" width="72" height="3" rx="1.5" fill="#D97706"/>
-  <text x="64" y="150" class="sans" font-size="17" fill="#B5ADA5">Schneider Electric EcoStruxure · built with Claude</text>
-  <rect x="64" y="170" width="42.599999999999994" height="26" rx="6" fill="#FFFFFF" fill-opacity=".04" stroke="#3F3A36"/><text x="85.3" y="187.5" text-anchor="middle" class="mono" font-size="12.5" fill="#B5ADA5">PLC</text><rect x="114.6" y="170" width="50.8" height="26" rx="6" fill="#FFFFFF" fill-opacity=".04" stroke="#3F3A36"/><text x="140" y="187.5" text-anchor="middle" class="mono" font-size="12.5" fill="#B5ADA5">HVAC</text><rect x="173.39999999999998" y="170" width="67.19999999999999" height="26" rx="6" fill="#FFFFFF" fill-opacity=".04" stroke="#3F3A36"/><text x="206.99999999999997" y="187.5" text-anchor="middle" class="mono" font-size="12.5" fill="#B5ADA5">BACnet</text><rect x="248.59999999999997" y="170" width="116.39999999999999" height="26" rx="6" fill="#FFFFFF" fill-opacity=".04" stroke="#3F3A36"/><text x="306.79999999999995" y="187.5" text-anchor="middle" class="mono" font-size="12.5" fill="#B5ADA5">React Native</text><rect x="372.99999999999994" y="170" width="67.19999999999999" height="26" rx="6" fill="#FFFFFF" fill-opacity=".04" stroke="#3F3A36"/><text x="406.5999999999999" y="187.5" text-anchor="middle" class="mono" font-size="12.5" fill="#B5ADA5">Claude</text>
 </svg>
