@@ -1,51 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="176" viewBox="0 0 1000 176" role="img" aria-labelledby="t d">
-  <title id="t">How I build</title>
-  <desc id="d">Field expertise in PLC and HVAC, software built with Claude, verified with automated tests and CI.</desc>
-  <defs><style>
-  .sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif}
-  .mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace}
-  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
-
-    /* Rustige voortgang over de pijlen: de lijn loopt vol en begint opnieuw. */
-    .flow{transform-box:fill-box;transform-origin:left;animation:flow 3.2s cubic-bezier(.4,0,.2,1) infinite}
-    @keyframes flow{0%{transform:scaleX(0);opacity:1}60%{transform:scaleX(1);opacity:1}100%{transform:scaleX(1);opacity:0}}
-  </style></defs>
-  
-  <rect x="8" y="8" width="208" height="160" rx="12" fill="#26221F" stroke="#3F3A36"/>
-  <rect x="28" y="30" width="38" height="38" rx="9" fill="#D97706" fill-opacity=".12"/>
-  <g transform="translate(36 38) scale(0.9166666666666666)" fill="none" stroke="#D97706" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M10 12h4"></path><path d="M10 8h4"></path><path d="M14 21v-3a2 2 0 0 0-4 0v3"></path><path d="M6 10H4a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-2"></path><path d="M6 21V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v16"></path></g>
-  <text x="196" y="54" text-anchor="end" class="mono" font-size="12" fill="#B5ADA5">01</text>
-  <text x="28" y="100" class="sans" font-size="18" font-weight="650" fill="#FAF7F2">Field expertise</text>
-  <text x="28" y="126" class="sans" font-size="13.5" fill="#B5ADA5">PLC · HVAC</text>
-  <text x="28" y="146" class="sans" font-size="13.5" fill="#B5ADA5">BACnet · Modbus</text>
-  <line x1="224" y1="88" x2="258.6666666666667" y2="88" stroke="#3F3A36" stroke-width="2"/>
-  <line x1="224" y1="88" x2="258.6666666666667" y2="88" stroke="#D97706" stroke-width="2" class="flow" style="animation-delay:0s"/>
-  <path d="M 252.66666666666669 83 L 258.6666666666667 88 L 252.66666666666669 93" fill="none" stroke="#D97706" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="266.6666666666667" y="8" width="208" height="160" rx="12" fill="#26221F" stroke="#3F3A36"/>
-  <rect x="286.6666666666667" y="30" width="38" height="38" rx="9" fill="#D97757" fill-opacity=".12"/>
-  <g transform="translate(294.6666666666667 38) scale(0.9166666666666666)" fill="none" stroke="#D97757" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z"></path><path d="M20 2v4"></path><path d="M22 4h-4"></path><circle cx="4" cy="20" r="2"></circle></g>
-  <text x="454.6666666666667" y="54" text-anchor="end" class="mono" font-size="12" fill="#B5ADA5">02</text>
-  <text x="286.6666666666667" y="100" class="sans" font-size="18" font-weight="650" fill="#FAF7F2">Claude</text>
-  <text x="286.6666666666667" y="126" class="sans" font-size="13.5" fill="#B5ADA5">Claude &amp; Claude Code</text>
-  <text x="286.6666666666667" y="146" class="sans" font-size="13.5" fill="#B5ADA5">AI-assisted development</text>
-  <line x1="482.6666666666667" y1="88" x2="517.3333333333334" y2="88" stroke="#3F3A36" stroke-width="2"/>
-  <line x1="482.6666666666667" y1="88" x2="517.3333333333334" y2="88" stroke="#D97706" stroke-width="2" class="flow" style="animation-delay:0.4s"/>
-  <path d="M 511.33333333333337 83 L 517.3333333333334 88 L 511.33333333333337 93" fill="none" stroke="#D97706" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="525.3333333333334" y="8" width="208" height="160" rx="12" fill="#26221F" stroke="#3F3A36"/>
-  <rect x="545.3333333333334" y="30" width="38" height="38" rx="9" fill="#C9A27E" fill-opacity=".12"/>
-  <g transform="translate(553.3333333333334 38) scale(0.9166666666666666)" fill="none" stroke="#C9A27E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m16 18 6-6-6-6"></path><path d="m8 6-6 6 6 6"></path></g>
-  <text x="713.3333333333334" y="54" text-anchor="end" class="mono" font-size="12" fill="#B5ADA5">03</text>
-  <text x="545.3333333333334" y="100" class="sans" font-size="18" font-weight="650" fill="#FAF7F2">Software</text>
-  <text x="545.3333333333334" y="126" class="sans" font-size="13.5" fill="#B5ADA5">React · React Native</text>
-  <text x="545.3333333333334" y="146" class="sans" font-size="13.5" fill="#B5ADA5">TypeScript</text>
-  <line x1="741.3333333333334" y1="88" x2="776" y2="88" stroke="#3F3A36" stroke-width="2"/>
-  <line x1="741.3333333333334" y1="88" x2="776" y2="88" stroke="#D97706" stroke-width="2" class="flow" style="animation-delay:0.8s"/>
-  <path d="M 770 83 L 776 88 L 770 93" fill="none" stroke="#D97706" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="784" y="8" width="208" height="160" rx="12" fill="#26221F" stroke="#3F3A36"/>
-  <rect x="804" y="30" width="38" height="38" rx="9" fill="#A3A86B" fill-opacity=".12"/>
-  <g transform="translate(812 38) scale(0.9166666666666666)" fill="none" stroke="#A3A86B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z"></path><path d="m16 9-5.5 5.5L8 12"></path></g>
-  <text x="972" y="54" text-anchor="end" class="mono" font-size="12" fill="#B5ADA5">04</text>
-  <text x="804" y="100" class="sans" font-size="18" font-weight="650" fill="#FAF7F2">Verified</text>
-  <text x="804" y="126" class="sans" font-size="13.5" fill="#B5ADA5">Automated tests</text>
-  <text x="804" y="146" class="sans" font-size="13.5" fill="#B5ADA5">CI on Windows &amp; Linux</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title desc">
+  <title id="title">How I work</title>
+  <desc id="desc">Field expertise, then AI-assisted development with Claude and Claude Code, then software in React, React Native and TypeScript, verified with automated tests and CI on Windows and Linux.</desc>
+  <rect x="0.5" y="10.5" width="263" height="149" rx="14" fill="#171310" stroke="#2e2621"/>
+  <text x="24" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#ea580c">01</text>
+  <text x="24" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="-0.4" fill="#f5efe6">Field expertise</text>
+  <text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a59c92">PLC · HVAC</text>
+  <text x="24" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a59c92">BACnet · Modbus</text>
+  <line x1="276" y1="85.0" x2="298" y2="85.0" stroke="#ea580c" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M293 80.0 L299 85.0 L293 90.0" fill="none" stroke="#ea580c" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="312.5" y="10.5" width="263" height="149" rx="14" fill="#171310" stroke="#2e2621"/>
+  <text x="336" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#ea580c">02</text>
+  <text x="336" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="-0.4" fill="#f5efe6">AI-assisted</text>
+  <text x="336" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a59c92">Claude &amp; Claude Code</text>
+  <text x="336" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a59c92">As an engineering tool</text>
+  <line x1="588" y1="85.0" x2="610" y2="85.0" stroke="#ea580c" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M605 80.0 L611 85.0 L605 90.0" fill="none" stroke="#ea580c" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="624.5" y="10.5" width="263" height="149" rx="14" fill="#171310" stroke="#2e2621"/>
+  <text x="648" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#ea580c">03</text>
+  <text x="648" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="-0.4" fill="#f5efe6">Software</text>
+  <text x="648" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a59c92">React · React Native</text>
+  <text x="648" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a59c92">TypeScript</text>
+  <line x1="900" y1="85.0" x2="922" y2="85.0" stroke="#ea580c" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M917 80.0 L923 85.0 L917 90.0" fill="none" stroke="#ea580c" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="936.5" y="10.5" width="263" height="149" rx="14" fill="#171310" stroke="#2e2621"/>
+  <text x="960" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#ea580c">04</text>
+  <text x="960" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="-0.4" fill="#f5efe6">Verified</text>
+  <text x="960" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a59c92">Automated tests</text>
+  <text x="960" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a59c92">CI on Windows &amp; Linux</text>
 </svg>
